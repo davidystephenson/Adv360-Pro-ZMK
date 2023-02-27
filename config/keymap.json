@@ -37,7 +37,7 @@
     ], [
        "&kp EQUAL", "&trans",       "&trans", "&trans", "&trans", "&trans",             "&trans",                                                                                  "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&kp MINUS",
           "&trans", "&trans",       "&trans", "&trans", "&trans", "&trans",             "&trans",                                                                                  "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",    "&trans",
-          "&trans", "&trans",       "&trans", "&trans", "&trans", "&trans",             "&trans", "&kp LCTRL", "&kp LEFT_ALT",                     "&kp LEFT_WIN", "&kp RCTRL",     "&mo 0", "&trans", "&trans", "&trans", "&trans", "&trans",    "&trans",
+          "&trans", "&trans",       "&trans", "&trans", "&trans", "&trans",             "&trans", "&kp LCTRL", "&kp LEFT_ALT",                     "&kp LEFT_WIN", "&kp RCTRL",     "&to 0", "&trans", "&trans", "&trans", "&trans", "&trans",    "&trans",
           "&trans", "&trans",       "&trans", "&trans", "&trans", "&trans",             "&trans",    "&trans",     "&kp HOME", "&trans", "&trans",    "&kp PG_UP",    "&trans",    "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",    "&trans",
           "&trans", "&trans", "&kp CAPSLOCK", "&trans", "&trans",                     "&kp BSPC",   "&kp DEL",      "&kp END",                        "&kp PG_DN", "&kp ENTER", "&kp SPACE",           "&trans", "&trans", "&trans", "&trans",    "&trans"
     ]
